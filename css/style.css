@@ -118,7 +118,7 @@ div-button input{
     font-weight: 500;
     border-radius: 10px;
     letter-spacing: 1px;
-    background: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+    background: linear-gradient(to right top, #c8d4e7, #4a9ac9, #619ca1, #4e977a, #687252);
 }
 div-button input:hover {
     background: #008793;
